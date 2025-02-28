@@ -6,3 +6,6 @@ print(palavra('sabotagem'))
 
 palindromo = lambda palavra: palavra == palavra[::-1]
 print(palindromo('ovo'))
+
+palindromo = lambda palavra: palavra == palavra[::-1]
+print(palindromo('lol'))
